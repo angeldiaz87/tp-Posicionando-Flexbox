@@ -295,7 +295,10 @@ header .burger{
     .home main {
         width: 100%;
     }
-
+    main .banner{
+        display: block;
+        width: 100%;
+    }
     
     .home main h2{
         font-size: 2rem;
@@ -332,18 +335,18 @@ header .burger{
    
 
     .home header div h3 {
-        font-size: 1rem;
+        font-size: 1em;
     }
 
     .home header nav ul li{
-        font-size: 1rem;
+        font-size: 1em;
     }
 
 
     
 
     .home main h2{
-        font-size: 2rem;
+        font-size: 2em;
     }
 
     .home main section article{
