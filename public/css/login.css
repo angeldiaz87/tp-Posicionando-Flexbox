@@ -1,0 +1,32 @@
+ main {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 10px;
+}
+
+  .usuario{
+    margin-top: 30px;
+}
+.pass{
+    margin-top: 30px;
+}
+ main input{
+    margin: 0 2px;
+    height: 30px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+ main button{
+    margin-top: 50px;
+    width: 100%;
+    background-color: #1259c3;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    height: 35px;
+}
+
+ 
